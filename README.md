@@ -28,7 +28,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
-
+```
 ## HOME HTML:
 <!DOCTYPE html>
 <html lang="en">
@@ -647,7 +647,7 @@ main {
     </main>
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![Screenshot 2024-05-08 080740](https://github.com/Sachin-0305/softweb/assets/149985717/32760db7-bca0-4724-8b46-eefdc68e77ff)
 
